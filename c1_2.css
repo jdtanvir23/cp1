@@ -1,0 +1,56 @@
+.rf
+{
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    border: 2px solid black;
+    background-color: #FF7F03;
+    color: black;
+    text-align: center;
+    font-size: 20px;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+.ff
+{
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    border: 2px solid black;
+    background-color: black;
+    color: greenyellow;
+    text-align: center;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+.form-group {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    flex: 1;
+    margin-right: 10px;
+}
+
+.form-group input {
+    flex: 2;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.bl
+{
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    border: 2px solid black;
+    background-color: #FF9D43;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    box-sizing: border-box;
+}
